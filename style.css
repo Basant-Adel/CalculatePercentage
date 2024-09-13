@@ -1,0 +1,13 @@
+* {
+    font-family: cursive;
+    color: #4088f3;
+}
+
+.container {
+    margin-top: 5%;
+    padding: 2%;
+}
+
+#percentage {
+    background-color: #ffffff;
+}
